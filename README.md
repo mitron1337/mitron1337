@@ -1,16 +1,35 @@
-## Hi there 👋
+# Привет, я Ойбек 👋
 
-<!--
-**mitron1337/mitron1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇺🇿 Ташкент, Узбекистан  
+🎯 Цель — стать Software Engineer и разбираться во всём от низкого уровня до продакшена  
+🎓 Учился в **Najot Ta'lim**  
+📚 Сейчас готовлюсь к поступлению в **21 School** и активно изучаю **C/C++**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Стек технологий
+
+**Знаю:**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+**Изучаю:**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 🚀 Что сейчас делаю
+
+- 🔧 Пишу консольные приложения на **C** с нуля
+- 🏊 Готовлюсь к **бассейну 21 School**
+- 📖 Изучаю указатели, память, структуры
+
+---
+
+> *"Душа лежит к C — значит учу C"* 😄
