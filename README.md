@@ -16,6 +16,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Изучаю:**
 
@@ -29,6 +31,15 @@
 - 🔧 Пишу консольные приложения на **C** с нуля
 - 🏊 Готовлюсь к **бассейну 21 School**
 - 📖 Изучаю указатели, память, структуры
+
+---
+
+## 📁 Мои проекты
+
+| Проект | Язык | Описание |
+|--------|------|----------|
+| [Угадай число](./guess_the_number) | C | Консольная игра — угадай число от 1 до 100 |
+| [Конвертер](./converter) | C | Конвертер валют и температур |
 
 ---
 
